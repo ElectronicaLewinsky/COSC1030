@@ -1,6 +1,6 @@
 //
-// Name
-// Date
+// Alice Black
+// 2025JAN26
 // Fix the Errors #1 Programming Project
 // COSC 1030
 //
