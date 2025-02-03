@@ -6,7 +6,7 @@
 //
 #include <iostream>
 using namespace std;
-// Variable declaration and constants
+// Variable declaration
 int main()
 {
     const double MIL_PER_YEAR = 1.5;
