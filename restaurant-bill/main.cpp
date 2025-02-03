@@ -25,6 +25,5 @@ int main()
     cout << "Tip amount: $" << mealChargeTipAmount << endl;
 // Calculate the total of the sale
     cout << "Total bill: $" <<mealCharge + mealChargeTaxAmount + mealChargeTipAmount << endl << endl; 
-// Print information about the sale.
 return 0;
 }
