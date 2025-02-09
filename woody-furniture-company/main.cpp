@@ -36,13 +36,13 @@ int main()
 // Print results
     cout << endl;
     cout << setprecision(2) << fixed;
-    cout << units_sold_american_colonial << " Class A seats @ $";
+    cout << units_sold_american_colonial << " American Colonial @ $";
     cout << setw(6) << american_colonial;
     cout << " = $" << american_colonial_total << endl;
-    cout << units_sold_modern << " Class B seats @ $";
+    cout << units_sold_modern << " Modern @ $";
     cout << setw(6) << modern;
     cout << " = $" << modern_total << endl;
-    cout << units_sold_french_classical << " Class C seats @ $";
+    cout << units_sold_french_classical << " French Classical @ $";
     cout << setw(6) << french_classical;
     cout << " = $" << french_classical_total << endl;
 
