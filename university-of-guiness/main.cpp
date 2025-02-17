@@ -9,7 +9,7 @@
 using namespace std;
 int main()
 {
-// Variable declaratopm
+// Variable declaration
     char choice;
 // Input information
     cout<<"Enter I if you are a resident or type O if you are out-of-state:";
