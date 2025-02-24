@@ -12,7 +12,7 @@ int main()
 {
 // Variable declaration
     int choice = 0;
-    int coke =0,
+    int coke = 0,
         tea = 0,
         coffee = 0,
         orangejuice = 0;
